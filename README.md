@@ -1,1 +1,1 @@
-# gramgan
+# GramGAN code
